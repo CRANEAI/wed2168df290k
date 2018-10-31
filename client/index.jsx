@@ -16,7 +16,6 @@
         //----------------------------------------------------------------------------------------------------------
         
         import signup from './components/signup.jsx'
-import signup from './components/signup.jsx'
        
         //----------------------------------------------------------------------------------------------------------
         //Reducer
@@ -39,7 +38,6 @@ import signup from './components/signup.jsx'
                     <Switch>
                         <Route path "/" component={signup}
                         <Route path="/signup" component={signup} /> 
-,<Route path="/signup" component={signup} /> 
 
                     </Switch>
                 </Router>
